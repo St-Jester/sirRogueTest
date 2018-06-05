@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SirRogueTest1", "SirRogueTest1\SirRogueTest1.csproj", "{F37EB615-9862-4BDE-A09F-1DE8C97BEC58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGClassLibrary", "RPGClassLibrary\RPGClassLibrary.csproj", "{A4E56854-A231-4281-9761-A439F3FFD4C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F37EB615-9862-4BDE-A09F-1DE8C97BEC58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F37EB615-9862-4BDE-A09F-1DE8C97BEC58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F37EB615-9862-4BDE-A09F-1DE8C97BEC58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F37EB615-9862-4BDE-A09F-1DE8C97BEC58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4E56854-A231-4281-9761-A439F3FFD4C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4E56854-A231-4281-9761-A439F3FFD4C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4E56854-A231-4281-9761-A439F3FFD4C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4E56854-A231-4281-9761-A439F3FFD4C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0992E21E-9169-404D-A35C-13D709052E28}
+	EndGlobalSection
+EndGlobal

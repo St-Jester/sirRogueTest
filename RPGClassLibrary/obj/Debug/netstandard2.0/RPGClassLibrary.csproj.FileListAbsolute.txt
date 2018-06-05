@@ -1,0 +1,9 @@
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\Cursach\SirRogueTest1\RPGClassLibrary\obj\Debug\netstandard2.0\RPGClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\Cursach\SirRogueTest1\RPGClassLibrary\obj\Debug\netstandard2.0\RPGClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\Cursach\SirRogueTest1\RPGClassLibrary\obj\Debug\netstandard2.0\RPGClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\Cursach\SirRogueTest1\RPGClassLibrary\obj\Debug\netstandard2.0\RPGClassLibrary.AssemblyInfo.cs
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\Cursach\SirRogueTest1\RPGClassLibrary\bin\Debug\netstandard2.0\RPGClassLibrary.deps.json
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\Cursach\SirRogueTest1\RPGClassLibrary\bin\Debug\netstandard2.0\RPGClassLibrary.dll
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\Cursach\SirRogueTest1\RPGClassLibrary\bin\Debug\netstandard2.0\RPGClassLibrary.pdb
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\Cursach\SirRogueTest1\RPGClassLibrary\obj\Debug\netstandard2.0\RPGClassLibrary.dll
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\Cursach\SirRogueTest1\RPGClassLibrary\obj\Debug\netstandard2.0\RPGClassLibrary.pdb
